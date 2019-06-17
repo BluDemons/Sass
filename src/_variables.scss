@@ -1,0 +1,33 @@
+$blanco:      rgb(253, 253, 253);
+$azulOscuro:  #101068;
+$amarillo:    #FFBA00;
+$azul:        #0076A3;
+$verde:       #548c27;
+$rojo:        #fe2d28;
+$morado:      #6D73C2;
+$negro:       #000000;
+
+
+$color-fondo: $negro;
+$color-principal: $blanco;
+
+$color-titulos: $blanco;
+
+$fuente-titulos: 'Times New Roman', serif;
+$fuente-principal: 'Open Sans', sans-serif;
+
+$fondo-navegacion: $azul;
+
+$color-borde-noticia: $azul;
+$color-header-noticia: lighten($blanco,10);
+$color-texto-noticia:$azul;
+
+$fondo-boton: $rojo;
+$texto-boton: $blanco;
+
+$tablet: 768px;
+$desktop: 1024px;
+
+
+//grid
+$numero-columnas: 12;
