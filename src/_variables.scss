@@ -3,12 +3,12 @@ $azulOscuro:  #101068;
 $amarillo:    #FFBA00;
 $azul:        #0076A3;
 $verde:       #548c27;
-$rojo:        #fe2d28;
+$rojo:        #ff0601c9;
 $morado:      #6D73C2;
 $negro:       #000000;
+$rosa:        #FF0040;
 
-
-$color-fondo: $negro;
+$color-fondo: $rosa;
 $color-principal: $blanco;
 
 $color-titulos: $blanco;
@@ -16,11 +16,11 @@ $color-titulos: $blanco;
 $fuente-titulos: 'Times New Roman', serif;
 $fuente-principal: 'Open Sans', sans-serif;
 
-$fondo-navegacion: $azul;
+$fondo-navegacion: $rojo;
 
 $color-borde-noticia: $azul;
 $color-header-noticia: lighten($blanco,10);
-$color-texto-noticia:$azul;
+$color-texto-noticia:$blanco;
 
 $fondo-boton: $rojo;
 $texto-boton: $blanco;
